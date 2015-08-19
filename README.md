@@ -10,4 +10,10 @@ no sense as it is, but that fungus or whatever really sets the whole thing off.
 
 ![My image](johnoy.jpg)
 
+
+
+
+![My image](jessie.jpg)
+
+
 I mean, what are we really talking about here. A cat. An octopus. A freakish, slighty too realistic rendition of the Octocat. There's too many legs! In the spirit of GitHub's Patchwork Boulder, we salute you Octocat picture in the back corner of the office. You have inspired this story, a series of commits, pull-requests, and plain 'ole fun.
